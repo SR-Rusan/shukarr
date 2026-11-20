@@ -1,0 +1,802 @@
+[
+  {
+    "id": "h1",
+    "source": "Bukhari & Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "إِنَّ اللَّهَ قَالَ: أَنَا عِنْدَ ظَنِّ عَبْدِي بِي",
+    "transliteration": "Innallāha qāla: Ana 'inda ẓanni 'abdī bī",
+    "english": "Allah says: I am as My servant thinks of Me.",
+    "theme": "hope",
+    "type": "hadith"
+  },
+  {
+    "id": "h2",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ",
+    "transliteration": "Mā naqaṣat ṣadaqatun min māl",
+    "english": "Charity never diminishes wealth.",
+    "theme": "generosity",
+    "type": "hadith"
+  },
+  {
+    "id": "h3",
+    "source": "Bukhari",
+    "narrator": "Abdullah ibn Masud",
+    "arabic": "عَلَيْكُمْ بِالصِّدْقِ فَإِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ",
+    "transliteration": "Alaykum biṣ-ṣidqi fa-innaṣ-ṣidqa yahdī ilal-birr",
+    "english": "Hold fast to truthfulness, for it leads to righteousness.",
+    "theme": "character",
+    "type": "hadith"
+  },
+  {
+    "id": "h4",
+    "source": "Bukhari & Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ",
+    "transliteration": "Man kāna yu'minu billāhi wal-yawmil-ākhiri falyaqul khayran aw liyaṣmut",
+    "english": "Whoever believes in Allah and the Last Day should speak good or remain silent.",
+    "theme": "speech",
+    "type": "hadith"
+  },
+  {
+    "id": "h5",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "الْمُؤْمِنُ الْقَوِيُّ خَيْرٌ وَأَحَبُّ إِلَى اللَّهِ مِنَ الْمُؤْمِنِ الضَّعِيفِ",
+    "transliteration": "Al-mu'minul-qawiyyu khayrun wa-aḥabbu ilallāhi minal-mu'minil-ḍa'īf",
+    "english": "The strong believer is better and more beloved to Allah than the weak believer.",
+    "theme": "strength",
+    "type": "hadith"
+  },
+  {
+    "id": "h6",
+    "source": "Tirmidhi",
+    "narrator": "Anas ibn Malik",
+    "arabic": "لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
+    "transliteration": "Lā yu'minu aḥadukum ḥattā yuḥibba li-akhīhi mā yuḥibbu li-nafsih",
+    "english": "None of you truly believes until he loves for his brother what he loves for himself.",
+    "theme": "brotherhood",
+    "type": "hadith"
+  },
+  {
+    "id": "h7",
+    "source": "Bukhari",
+    "narrator": "Aisha",
+    "arabic": "إِنَّ اللَّهَ رَفِيقٌ يُحِبُّ الرِّفْقَ",
+    "transliteration": "Innallāha rafīqun yuḥibbur-rifq",
+    "english": "Allah is gentle and loves gentleness in all things.",
+    "theme": "gentleness",
+    "type": "hadith"
+  },
+  {
+    "id": "h8",
+    "source": "Muslim",
+    "narrator": "Suhaib",
+    "arabic": "عَجَبًا لِأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ",
+    "transliteration": "Ajaban li-amril-mu'min, inna amrahu kullahu khayar",
+    "english": "Wondrous is the affair of the believer — all of his affairs are good.",
+    "theme": "gratitude",
+    "type": "hadith"
+  },
+  {
+    "id": "h9",
+    "source": "Bukhari",
+    "narrator": "Ibn Umar",
+    "arabic": "كُنْ فِي الدُّنْيَا كَأَنَّكَ غَرِيبٌ أَوْ عَابِرُ سَبِيلٍ",
+    "transliteration": "Kun fid-dunyā ka-annaka gharīb aw 'ābiru sabīl",
+    "english": "Be in this world as if you were a stranger or a traveller passing through.",
+    "theme": "dunya",
+    "type": "hadith"
+  },
+  {
+    "id": "h10",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "إِذَا مَاتَ الْإِنْسَانُ انْقَطَعَ عَنْهُ عَمَلُهُ إِلَّا مِنْ ثَلَاثَةٍ",
+    "transliteration": "Idhā mātal-insānu inqaṭa'a 'anhu 'amaluhu illā min thalāthah",
+    "english": "When a person dies, all deeds end except three: ongoing charity, beneficial knowledge, or a righteous child who prays for them.",
+    "theme": "legacy",
+    "type": "hadith"
+  },
+  {
+    "id": "h11",
+    "source": "Tirmidhi",
+    "narrator": "Abdullah ibn Abbas",
+    "arabic": "احْفَظِ اللَّهَ يَحْفَظْكَ",
+    "transliteration": "Iḥfaẓillāha yaḥfaẓka",
+    "english": "Be mindful of Allah and He will protect you.",
+    "theme": "taqwa",
+    "type": "hadith"
+  },
+  {
+    "id": "h12",
+    "source": "Tirmidhi",
+    "narrator": "Abdullah ibn Abbas",
+    "arabic": "وَاعْلَمْ أَنَّ مَا أَصَابَكَ لَمْ يَكُنْ لِيُخْطِئَكَ",
+    "transliteration": "Wa'lam anna mā aṣābaka lam yakun liyukhṭi'ak",
+    "english": "Know that whatever has befallen you was never meant to miss you.",
+    "theme": "qadr",
+    "type": "hadith"
+  },
+  {
+    "id": "h13",
+    "source": "Bukhari",
+    "narrator": "Abu Hurairah",
+    "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+    "transliteration": "Khayrukum man ta'allamal-Qur'āna wa 'allamah",
+    "english": "The best of you are those who learn the Quran and teach it.",
+    "theme": "quran",
+    "type": "hadith"
+  },
+  {
+    "id": "h14",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ",
+    "transliteration": "Man salaka ṭarīqan yaltamisu fīhi 'ilman sahhallāhu lahu bihi ṭarīqan ilal-jannah",
+    "english": "Whoever travels a path seeking knowledge, Allah makes easy for him a path to Paradise.",
+    "theme": "knowledge",
+    "type": "hadith"
+  },
+  {
+    "id": "h15",
+    "source": "Bukhari",
+    "narrator": "Aisha",
+    "arabic": "إِنَّ أَحَبَّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ",
+    "transliteration": "Inna aḥabbal-a'māli ilallāhi adwamuhā wa-in qall",
+    "english": "The most beloved deeds to Allah are the most consistent, even if they are small.",
+    "theme": "consistency",
+    "type": "hadith"
+  },
+  {
+    "id": "h16",
+    "source": "Muslim",
+    "narrator": "Abu Dharr",
+    "arabic": "اتَّقِ اللَّهِ حَيْثُمَا كُنْتَ وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا",
+    "transliteration": "Ittaqillāha ḥaythumā kunta wa-atbi'is-sayyi'atal-ḥasanata tamḥuhā",
+    "english": "Fear Allah wherever you are, and follow an evil deed with a good one to erase it.",
+    "theme": "repentance",
+    "type": "hadith"
+  },
+  {
+    "id": "h17",
+    "source": "Tirmidhi",
+    "narrator": "Abu Hurairah",
+    "arabic": "الدُّنْيَا سِجْنُ الْمُؤْمِنِ وَجَنَّةُ الْكَافِرِ",
+    "transliteration": "Ad-dunyā sijnal-mu'min wa-jannatul-kāfir",
+    "english": "This world is a prison for the believer and a paradise for the disbeliever.",
+    "theme": "dunya",
+    "type": "hadith"
+  },
+  {
+    "id": "h18",
+    "source": "Ibn Majah",
+    "narrator": "Abu Hurairah",
+    "arabic": "اللَّهُمَّ أَصْلِحْ لِي دِينِيَ الَّذِي هُوَ عِصْمَةُ أَمْرِي",
+    "transliteration": "Allāhumma aṣliḥ lī dīniyal-ladhī huwa 'iṣmatu amrī",
+    "english": "O Allah, rectify for me my religion which is the safeguard of my affairs.",
+    "theme": "dua",
+    "type": "hadith"
+  },
+  {
+    "id": "h19",
+    "source": "Bukhari & Muslim",
+    "narrator": "Anas ibn Malik",
+    "arabic": "يَسِّرُوا وَلَا تُعَسِّرُوا وَبَشِّرُوا وَلَا تُنَفِّرُوا",
+    "transliteration": "Yassirū wa-lā tu'assirū wa-bashshirū wa-lā tunaffirū",
+    "english": "Make things easy and do not make them difficult; give glad tidings and do not repel.",
+    "theme": "ease",
+    "type": "hadith"
+  },
+  {
+    "id": "h20",
+    "source": "Muslim",
+    "narrator": "Jabir ibn Abdullah",
+    "arabic": "كُلُّ مَعْرُوفٍ صَدَقَةٌ",
+    "transliteration": "Kullu ma'rūfin ṣadaqah",
+    "english": "Every act of kindness is charity.",
+    "theme": "kindness",
+    "type": "hadith"
+  },
+  {
+    "id": "h21",
+    "source": "Bukhari",
+    "narrator": "Abu Hurairah",
+    "arabic": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ",
+    "transliteration": "Laysal-shadīdu biṣ-ṣur'ah, innamaş-shadīdul-ladhī yamliku nafsahu 'indal-ghaḍab",
+    "english": "The strong person is not the one who can wrestle others; the strong person is the one who controls himself in anger.",
+    "theme": "anger",
+    "type": "hadith"
+  },
+  {
+    "id": "h22",
+    "source": "Tirmidhi",
+    "narrator": "Abu Hurairah",
+    "arabic": "مَنْ لَا يَشْكُرُ النَّاسَ لَا يَشْكُرُ اللَّهَ",
+    "transliteration": "Man lā yashkurun-nāsa lā yashkurullāh",
+    "english": "Whoever does not thank people does not thank Allah.",
+    "theme": "gratitude",
+    "type": "hadith"
+  },
+  {
+    "id": "h23",
+    "source": "Bukhari",
+    "narrator": "Ibn Umar",
+    "arabic": "وَالْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ",
+    "transliteration": "Wal-kalimatut-ṭayyibatu ṣadaqah",
+    "english": "A kind word is charity.",
+    "theme": "kindness",
+    "type": "hadith"
+  },
+  {
+    "id": "h24",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "إِنَّ اللَّهَ لَا يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ",
+    "transliteration": "Innallāha lā yanẓuru ilā ṣuwarikum wa-amwālikum wa-lākin yanẓuru ilā qulūbikum wa-a'mālikum",
+    "english": "Allah does not look at your appearance or wealth, but at your hearts and deeds.",
+    "theme": "sincerity",
+    "type": "hadith"
+  },
+  {
+    "id": "h25",
+    "source": "Bukhari",
+    "narrator": "Abu Hurairah",
+    "arabic": "مَنْ صَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ",
+    "transliteration": "Man ṣāma Ramaḍāna īmānan waḥtisāban ghufira lahu mā taqaddama min dhanbih",
+    "english": "Whoever fasts Ramadan out of faith and seeking reward, his past sins will be forgiven.",
+    "theme": "forgiveness",
+    "type": "hadith"
+  },
+  {
+    "id": "h26",
+    "source": "Tirmidhi",
+    "narrator": "Abu Hurairah",
+    "arabic": "الصَّبْرُ ضِيَاءٌ",
+    "transliteration": "Aṣ-ṣabru ḍiyā'",
+    "english": "Patience is illumination.",
+    "theme": "patience",
+    "type": "hadith"
+  },
+  {
+    "id": "h27",
+    "source": "Ahmad",
+    "narrator": "Anas ibn Malik",
+    "arabic": "لَوْ أَنَّ ابْنَ آدَمَ هَرَبَ مِنْ رِزْقِهِ كَمَا يَهْرُبُ مِنَ الْمَوْتِ لَأَدْرَكَهُ رِزْقُهُ كَمَا يُدْرِكُهُ الْمَوْتُ",
+    "transliteration": "Law anna ibna Ādama haraba min rizqihi kamā yahrubu minal-mawti la-adrakahu rizquhu kamā yudrikuhu mawt",
+    "english": "If the son of Adam were to flee from his provision as he flees from death, his provision would still catch him just as death will catch him.",
+    "theme": "rizq",
+    "type": "hadith"
+  },
+  {
+    "id": "h28",
+    "source": "Bukhari",
+    "narrator": "Abu Hurairah",
+    "arabic": "أَقْرَبُ مَا يَكُونُ الْعَبْدُ مِنْ رَبِّهِ وَهُوَ سَاجِدٌ",
+    "transliteration": "Aqrabu mā yakūnal-'abdu min rabbihi wa-huwa sājid",
+    "english": "The servant is closest to his Lord when he is in prostration.",
+    "theme": "prayer",
+    "type": "hadith"
+  },
+  {
+    "id": "h29",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "مَا أَصَابَ الْمُسْلِمَ مِنْ نَصَبٍ وَلَا وَصَبٍ وَلَا هَمٍّ وَلَا حَزَنٍ وَلَا أَذًى وَلَا غَمٍّ حَتَّى الشَّوْكَةِ يُشَاكُهَا إِلَّا كَفَّرَ اللَّهُ بِهَا مِنْ خَطَايَاهُ",
+    "transliteration": "Mā aṣābal-muslima min naṣabin wa-lā waṣabin wa-lā hammin wa-lā ḥazanin wa-lā adhan wa-lā ghamin ḥattāsh-shawkati yushākuhā illā kaffara llāhu bihā min khaṭāyāh",
+    "english": "No fatigue, disease, sorrow, grief, hurt, or distress — even a thorn that pricks him — befalls a Muslim, but Allah expiates some of his sins because of it.",
+    "theme": "hardship",
+    "type": "hadith"
+  },
+  {
+    "id": "h30",
+    "source": "Tirmidhi",
+    "narrator": "Muadh ibn Jabal",
+    "arabic": "اتَّقِ اللَّهَ حَيْثُمَا كُنْتَ وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ",
+    "transliteration": "Ittaqillāha ḥaythumā kunta wa-khāliqi n-nāsa bi-khuluqin ḥasan",
+    "english": "Fear Allah wherever you are, and treat people with good character.",
+    "theme": "character",
+    "type": "hadith"
+  },
+  {
+    "id": "h31",
+    "source": "Bukhari",
+    "narrator": "Abdullah ibn Amr",
+    "arabic": "الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ ارْحَمُوا مَنْ فِي الْأَرْضِ يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ",
+    "transliteration": "Ar-rāḥimūna yarḥamuhum ar-Raḥmān, irḥamū man fil-arḍi yarḥamkum man fis-samā'",
+    "english": "The merciful are shown mercy by the Most Merciful. Be merciful to those on earth and the One above the heavens will be merciful to you.",
+    "theme": "mercy",
+    "type": "hadith"
+  },
+  {
+    "id": "h32",
+    "source": "Tirmidhi",
+    "narrator": "Abu Hurairah",
+    "arabic": "إِنَّ اللَّهَ يَقْبَلُ التَّوْبَةَ مَا لَمْ يُغَرْغِرْ",
+    "transliteration": "Innallāha yaqbalut-tawbata mā lam yugharghar",
+    "english": "Allah accepts repentance as long as the soul has not reached the throat.",
+    "theme": "repentance",
+    "type": "hadith"
+  },
+  {
+    "id": "h33",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "مَنْ نَفَّسَ عَنْ مُؤْمِنٍ كُرْبَةً مِنْ كُرَبِ الدُّنْيَا نَفَّسَ اللَّهُ عَنْهُ كُرْبَةً مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ",
+    "transliteration": "Man naffasa 'an mu'minin kurbatan min kurabidunyā, naffasallāhu 'anhu kurbatan min kurabi yawmil-qiyāmah",
+    "english": "Whoever relieves a believer of a distress in this world, Allah will relieve him of a distress on the Day of Judgement.",
+    "theme": "helping",
+    "type": "hadith"
+  },
+  {
+    "id": "h34",
+    "source": "Bukhari",
+    "narrator": "Anas ibn Malik",
+    "arabic": "لَا تَحَاسَدُوا وَلَا تَنَاجَشُوا وَلَا تَبَاغَضُوا وَكُونُوا عِبَادَ اللَّهِ إِخْوَانًا",
+    "transliteration": "Lā taḥāsadū wa-lā tanājashū wa-lā tabāghaḍū wa-kūnū 'ibādallāhi ikhwānā",
+    "english": "Do not envy one another, do not deceive one another, do not hate one another — be brothers in the worship of Allah.",
+    "theme": "brotherhood",
+    "type": "hadith"
+  },
+  {
+    "id": "h35",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ",
+    "transliteration": "Ṭalabul-'ilmi farīḍatun 'alā kulli muslim",
+    "english": "Seeking knowledge is an obligation upon every Muslim.",
+    "theme": "knowledge",
+    "type": "hadith"
+  },
+  {
+    "id": "h36",
+    "source": "Bukhari",
+    "narrator": "Ibn Abbas",
+    "arabic": "نِعْمَتَانِ مَغْبُونٌ فِيهِمَا كَثِيرٌ مِنَ النَّاسِ الصِّحَّةُ وَالْفَرَاغُ",
+    "transliteration": "Ni'matāni maghbūnun fīhimā kathīrun minan-nās: aṣ-ṣiḥḥatu wal-farāgh",
+    "english": "Two blessings that many people are cheated of: good health and free time.",
+    "theme": "gratitude",
+    "type": "hadith"
+  },
+  {
+    "id": "h37",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "انْظُرُوا إِلَى مَنْ هُوَ أَسْفَلَ مِنْكُمْ وَلَا تَنْظُرُوا إِلَى مَنْ هُوَ فَوْقَكُمْ",
+    "transliteration": "Unẓurū ilā man huwa asfala minkum wa-lā tanẓurū ilā man huwa fawqakum",
+    "english": "Look at those below you (in worldly terms) and do not look at those above you — it is more likely to keep you from despising Allah's favour.",
+    "theme": "contentment",
+    "type": "hadith"
+  },
+  {
+    "id": "h38",
+    "source": "Tirmidhi",
+    "narrator": "Abu Hurairah",
+    "arabic": "الدُّعَاءُ هُوَ الْعِبَادَةُ",
+    "transliteration": "Ad-du'ā'u huwal-'ibādah",
+    "english": "Dua (supplication) is worship.",
+    "theme": "dua",
+    "type": "hadith"
+  },
+  {
+    "id": "h39",
+    "source": "Ahmad",
+    "narrator": "Shaddad ibn Aws",
+    "arabic": "الْكَيِّسُ مَنْ دَانَ نَفْسَهُ وَعَمِلَ لِمَا بَعْدَ الْمَوْتِ",
+    "transliteration": "Al-kayyisu man dāna nafsahu wa-'amila limā ba'dal-mawt",
+    "english": "The intelligent person is one who holds himself accountable and works for what comes after death.",
+    "theme": "accountability",
+    "type": "hadith"
+  },
+  {
+    "id": "h40",
+    "source": "Bukhari",
+    "narrator": "Aisha",
+    "arabic": "إِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الْجَمَالَ",
+    "transliteration": "Innallāha jamīlun yuḥibbul-jamāl",
+    "english": "Allah is beautiful and loves beauty.",
+    "theme": "beauty",
+    "type": "hadith"
+  },
+  {
+    "id": "h41",
+    "source": "Tirmidhi",
+    "narrator": "Anas ibn Malik",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ ثَبَاتَ الْأَمْرِ وَالْعَزِيمَةَ عَلَى الرُّشْدِ",
+    "transliteration": "Allāhumma innī as'aluka thabātal-amri wal-'azīmata 'alar-rushd",
+    "english": "O Allah, I ask You for steadfastness in my affairs and determination to be rightly guided.",
+    "theme": "steadfastness",
+    "type": "hadith"
+  },
+  {
+    "id": "h42",
+    "source": "Muslim",
+    "narrator": "Jabir",
+    "arabic": "لَا تَدَعُوا الدُّعَاءَ فَإِنَّهُ لَنْ يَهْلِكَ مَعَ الدُّعَاءِ أَحَدٌ",
+    "transliteration": "Lā tada'ud-du'ā'a fa-innahu lan yahlika ma'ad-du'ā'i aḥad",
+    "english": "Do not abandon dua, for no one who makes dua will be destroyed.",
+    "theme": "dua",
+    "type": "hadith"
+  },
+  {
+    "id": "h43",
+    "source": "Bukhari",
+    "narrator": "Abu Hurairah",
+    "arabic": "مَنْ تَوَاضَعَ لِلَّهِ رَفَعَهُ اللَّهُ",
+    "transliteration": "Man tawāḍa'a lillāhi rafa'ahullāh",
+    "english": "Whoever humbles himself for Allah, Allah will raise him.",
+    "theme": "humility",
+    "type": "hadith"
+  },
+  {
+    "id": "h44",
+    "source": "Muslim",
+    "narrator": "Abu Musa al-Ashari",
+    "arabic": "مَثَلُ الْجَلِيسِ الصَّالِحِ وَالْجَلِيسِ السَّوْءِ كَمَثَلِ صَاحِبِ الْمِسْكِ وَكِيرِ الْحَدَّادِ",
+    "transliteration": "Mathalul-jalīṣiṣ-ṣāliḥi wal-jalīsiś-saw'i ka-mathali ṣāḥibil-miski wa-kīril-ḥaddād",
+    "english": "The example of a good companion and a bad companion is like a musk seller and a blacksmith — one brings fragrance, the other smoke.",
+    "theme": "companions",
+    "type": "hadith"
+  },
+  {
+    "id": "h45",
+    "source": "Bukhari",
+    "narrator": "Abdullah ibn Masud",
+    "arabic": "هَلَكَ الْمُتَنَطِّعُونَ",
+    "transliteration": "Halakul-mutanaṭṭi'ūn",
+    "english": "Destroyed are those who go to extremes (in religion).",
+    "theme": "moderation",
+    "type": "hadith"
+  },
+  {
+    "id": "h46",
+    "source": "Tirmidhi",
+    "narrator": "Muadh ibn Jabal",
+    "arabic": "رَأْسُ الْأَمْرِ الْإِسْلَامُ وَعَمُودُهُ الصَّلَاةُ وَذِرْوَةُ سَنَامِهِ الْجِهَادُ",
+    "transliteration": "Ra'sul-amril-islāmu wa-'amūduhus-ṣalātu wa-dhirwatu sanāmihil-jihād",
+    "english": "The foundation of the matter is Islam, its pillar is prayer, and its peak is striving in Allah's cause.",
+    "theme": "prayer",
+    "type": "hadith"
+  },
+  {
+    "id": "h47",
+    "source": "Bukhari",
+    "narrator": "Abu Hurairah",
+    "arabic": "حَقُّ الْمُسْلِمِ عَلَى الْمُسْلِمِ سِتٌّ",
+    "transliteration": "Ḥaqqul-muslimi 'alal-muslimi sittun",
+    "english": "The Muslim has six rights over another Muslim: greeting, visiting the sick, following funerals, accepting invitations, returning sneezes, and well-wishing.",
+    "theme": "community",
+    "type": "hadith"
+  },
+  {
+    "id": "h48",
+    "source": "Bukhari",
+    "narrator": "Anas ibn Malik",
+    "arabic": "لَا يُؤْمِنُ عَبْدٌ حَتَّى يُحِبَّ لِجَارِهِ أَوْ قَالَ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
+    "transliteration": "Lā yu'minu 'abdun ḥattā yuḥibba li-jārih aw qāla li-akhīhi mā yuḥibbu li-nafsih",
+    "english": "A person does not truly believe until he loves for his neighbour what he loves for himself.",
+    "theme": "brotherhood",
+    "type": "hadith"
+  },
+  {
+    "id": "h49",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "إِنَّ اللَّهَ يَبْسُطُ يَدَهُ بِاللَّيْلِ لِيَتُوبَ مُسِيءُ النَّهَارِ وَيَبْسُطُ يَدَهُ بِالنَّهَارِ لِيَتُوبَ مُسِيءُ اللَّيْلِ",
+    "transliteration": "Innallāha yabsuṭu yadahu bil-layli li-yatūba musī'un-nahāri wa-yabsuṭu yadahu bin-nahāri li-yatūba musī'ul-layl",
+    "english": "Allah extends His hand at night to accept the repentance of those who sinned in the day, and extends His hand by day for those who sinned at night.",
+    "theme": "repentance",
+    "type": "hadith"
+  },
+  {
+    "id": "h50",
+    "source": "Bukhari",
+    "narrator": "Aisha",
+    "arabic": "خَيْرُكُمْ خَيْرُكُمْ لِأَهْلِهِ وَأَنَا خَيْرُكُمْ لِأَهْلِي",
+    "transliteration": "Khayrukum khayrukum li-ahlihi wa-ana khayrukum li-ahlī",
+    "english": "The best of you are those who are best to their families, and I am the best of you to my family.",
+    "theme": "family",
+    "type": "hadith"
+  },
+  {
+    "id": "h51",
+    "source": "Tirmidhi",
+    "narrator": "Abu Hurairah",
+    "arabic": "إِنَّ الرَّجُلَ لَيَبْلُغُ بِحُسْنِ خُلُقِهِ دَرَجَةَ الصَّائِمِ الْقَائِمِ",
+    "transliteration": "Innar-rajula la-yablughu biḥusni khuluqihi darajataṣ-ṣā'imil-qā'im",
+    "english": "A person can reach the level of one who fasts and prays all night through their good character alone.",
+    "theme": "character",
+    "type": "hadith"
+  },
+  {
+    "id": "h52",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ أَحَبُّ إِلَيَّ مِمَّا طَلَعَتْ عَلَيْهِ الشَّمْسُ",
+    "transliteration": "SubḥānAllāhi wa-biḥamdihi aḥabbu ilayya mimmā ṭala'at 'alayhish-shams",
+    "english": "Saying 'SubhanAllahi wa bihamdihi' is more beloved to me than all the sun shines upon.",
+    "theme": "dhikr",
+    "type": "hadith"
+  },
+  {
+    "id": "h53",
+    "source": "Bukhari",
+    "narrator": "Abu Hurairah",
+    "arabic": "كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ ثَقِيلَتَانِ فِي الْمِيزَانِ حَبِيبَتَانِ إِلَى الرَّحْمَنِ سُبْحَانَ اللَّهِ وَبِحَمْدِهِ سُبْحَانَ اللَّهِ الْعَظِيمِ",
+    "transliteration": "Kalimatāni khafīfatāni 'alal-lisāni thaqīlatāni fil-mīzāni ḥabībatāni ilar-Raḥmān: SubḥānAllāhi wa-biḥamdihi, SubḥānAllāhil-'Aẓīm",
+    "english": "Two words light on the tongue, heavy on the scale, beloved to the Most Merciful: 'SubhanAllahi wa bihamdihi, SubhanAllahil Adheem'.",
+    "theme": "dhikr",
+    "type": "hadith"
+  },
+  {
+    "id": "h54",
+    "source": "Tirmidhi",
+    "narrator": "Abu Hurairah",
+    "arabic": "مَنْ قَالَ سُبْحَانَ اللَّهِ وَبِحَمْدِهِ فِي يَوْمٍ مِائَةَ مَرَّةٍ حُطَّتْ خَطَايَاهُ",
+    "transliteration": "Man qāla SubḥānAllāhi wa-biḥamdihi fī yawmin mi'ata marratin ḥuṭṭat khaṭāyāh",
+    "english": "Whoever says SubhanAllahi wa bihamdihi 100 times in a day will have his sins wiped away.",
+    "theme": "dhikr",
+    "type": "hadith"
+  },
+  {
+    "id": "h55",
+    "source": "Muslim",
+    "narrator": "Saad ibn Abi Waqqas",
+    "arabic": "يَا ذَا الْجَلَالِ وَالْإِكْرَامِ أَلِظُّوا",
+    "transliteration": "Yā dhal-jalāli wal-ikrāmi, aliẓẓū",
+    "english": "Hold fast to saying: O Lord of Majesty and Honour.",
+    "theme": "dhikr",
+    "type": "hadith"
+  },
+  {
+    "id": "h56",
+    "source": "Ibn Majah",
+    "narrator": "Abu Hurairah",
+    "arabic": "مَنْ كَانَتْ لَهُ مَظْلَمَةٌ لِأَخِيهِ مِنْ عِرْضِهِ أَوْ شَيْءٍ فَلْيَتَحَلَّلْهُ مِنْهُ الْيَوْمَ",
+    "transliteration": "Man kānat lahu maẓlamatun li-akhīhi min 'irḍihi aw shay'in falyataḥallal minhu al-yawm",
+    "english": "Whoever has wronged his brother in honour or anything else, let him seek his pardon today before the Day of Judgement.",
+    "theme": "forgiveness",
+    "type": "hadith"
+  },
+  {
+    "id": "h57",
+    "source": "Bukhari",
+    "narrator": "Abu Hurairah",
+    "arabic": "يَقُولُ اللَّهُ تَعَالَى أَنَا عِنْدَ ظَنِّ عَبْدِي بِي وَأَنَا مَعَهُ إِذَا ذَكَرَنِي",
+    "transliteration": "Yaqūlullāhu ta'ālā: Anā 'inda ẓanni 'abdī bī, wa-anā ma'ahu idhā dhakaranī",
+    "english": "Allah says: I am as My servant thinks of Me, and I am with him when he remembers Me.",
+    "theme": "hope",
+    "type": "hadith"
+  },
+  {
+    "id": "h58",
+    "source": "Tirmidhi",
+    "narrator": "Abdullah ibn Abbas",
+    "arabic": "إِذَا سَأَلْتَ فَاسْأَلِ اللَّهَ وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاللَّهِ",
+    "transliteration": "Idhā sa'alta fas'alillāha wa-idhas-ta'anta fasta'in billāh",
+    "english": "When you ask, ask Allah. When you seek help, seek it from Allah.",
+    "theme": "tawakkul",
+    "type": "hadith"
+  },
+  {
+    "id": "h59",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "أَفْضَلُ الصِّيَامِ بَعْدَ رَمَضَانَ شَهْرُ اللَّهِ الْمُحَرَّمُ",
+    "transliteration": "Afḍaluṣ-ṣiyāmi ba'da Ramaḍāna shahru llāhil-Muḥarram",
+    "english": "The best fasting after Ramadan is in the month of Allah, Al-Muharram.",
+    "theme": "worship",
+    "type": "hadith"
+  },
+  {
+    "id": "h60",
+    "source": "Bukhari",
+    "narrator": "Umar ibn al-Khattab",
+    "arabic": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ",
+    "transliteration": "Innamal-a'mālu bin-niyyāt",
+    "english": "Actions are only by intentions — every person receives what they intended.",
+    "theme": "sincerity",
+    "type": "hadith"
+  },
+  {
+    "id": "h61",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "مَنْ أَحَبَّ لِقَاءَ اللَّهِ أَحَبَّ اللَّهُ لِقَاءَهُ",
+    "transliteration": "Man aḥabba liqā'allāhi aḥabbAllāhu liqā'ah",
+    "english": "Whoever loves to meet Allah, Allah loves to meet them.",
+    "theme": "afterlife",
+    "type": "hadith"
+  },
+  {
+    "id": "h62",
+    "source": "Tirmidhi",
+    "narrator": "Abu Hurairah",
+    "arabic": "كُلُّ ابْنِ آدَمَ خَطَّاءٌ وَخَيْرُ الْخَطَّائِينَ التَّوَّابُونَ",
+    "transliteration": "Kullu ibni Ādama khaṭṭā'un wa-khayrul-khaṭṭā'īnat-tawwābūn",
+    "english": "Every son of Adam makes mistakes, and the best of those who make mistakes are those who repent.",
+    "theme": "repentance",
+    "type": "hadith"
+  },
+  {
+    "id": "h63",
+    "source": "Bukhari",
+    "narrator": "Abu Hurairah",
+    "arabic": "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ",
+    "transliteration": "Al-muslimu man salimail-muslimūna min lisānihi wa-yadih",
+    "english": "The Muslim is the one from whose tongue and hand other Muslims are safe.",
+    "theme": "character",
+    "type": "hadith"
+  },
+  {
+    "id": "h64",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ",
+    "transliteration": "Man ra'ā minkum munkaran falyughayyirhu bi-yadih",
+    "english": "Whoever sees something wrong, let him change it with his hand; if not, then with his tongue; if not, then in his heart — and that is the weakest of faith.",
+    "theme": "action",
+    "type": "hadith"
+  },
+  {
+    "id": "h65",
+    "source": "Bukhari",
+    "narrator": "Abdullah ibn Amr",
+    "arabic": "مَنْ أَرَادَ أَنْ يُزَحْزَحَ عَنِ النَّارِ وَيُدْخَلَ الْجَنَّةَ فَلْتُدْرِكْهُ مَنِيَّتُهُ وَهُوَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ",
+    "transliteration": "Man arāda an yuzaḥzaḥa 'anin-nāri wa-yudkhalal-jannata faltudrik-hu maniyyatuhu wa-huwa yu'minu billāhi wal-yawmil-ākhir",
+    "english": "Whoever wants to be removed from Hellfire and enter Paradise — let death come to him while he believes in Allah and the Last Day.",
+    "theme": "faith",
+    "type": "hadith"
+  },
+  {
+    "id": "h66",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "مَا مِنْ أَيَّامٍ الْعَمَلُ الصَّالِحُ فِيهَا أَحَبُّ إِلَى اللَّهِ مِنْ هَذِهِ الْأَيَّامِ",
+    "transliteration": "Mā min ayyāmil-'amaluṣ-ṣāliḥu fīhā aḥabbu ilallāhi min hādhihil-ayyām",
+    "english": "There are no days in which righteous deeds are more beloved to Allah than these (first ten days of Dhul-Hijjah).",
+    "theme": "worship",
+    "type": "hadith"
+  },
+  {
+    "id": "h67",
+    "source": "Tirmidhi",
+    "narrator": "Abu Hurairah",
+    "arabic": "إِيَّاكُمْ وَالظَّنَّ فَإِنَّ الظَّنَّ أَكْذَبُ الْحَدِيثِ",
+    "transliteration": "Iyyākum waẓ-ẓanna fa-innaẓ-ẓanna akdhabul-ḥadīth",
+    "english": "Beware of suspicion, for suspicion is the most false of speech.",
+    "theme": "character",
+    "type": "hadith"
+  },
+  {
+    "id": "h68",
+    "source": "Ahmad",
+    "narrator": "Muadh ibn Jabal",
+    "arabic": "أَلَا أُخْبِرُكَ بِرَأْسِ الْأَمْرِ وَعَمُودِهِ وَذِرْوَةِ سَنَامِهِ",
+    "transliteration": "Alā ukhbiruka bira'sil-amri wa-'amūdihi wa-dhirwati sanāmih",
+    "english": "Hold fast to your tongue, remain in your house, and weep over your sins.",
+    "theme": "piety",
+    "type": "hadith"
+  },
+  {
+    "id": "h69",
+    "source": "Bukhari",
+    "narrator": "Anas ibn Malik",
+    "arabic": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+    "transliteration": "Allāhumma lā sahla illā mā ja'altahu sahlan wa-anta taj'alul-ḥazna idhā shi'ta sahlan",
+    "english": "O Allah, there is no ease except what You make easy, and You can make the difficult easy if You will.",
+    "theme": "dua",
+    "type": "hadith"
+  },
+  {
+    "id": "h70",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "وَمَنْ يَتَصَبَّرْ يُصَبِّرْهُ اللَّهُ",
+    "transliteration": "Wa-man yataṣabbar yuṣabbir-hullāh",
+    "english": "Whoever tries to be patient, Allah will grant him patience.",
+    "theme": "patience",
+    "type": "hadith"
+  },
+  {
+    "id": "h71",
+    "source": "Bukhari",
+    "narrator": "Abu Hurairah",
+    "arabic": "أَعُوذُ بِاللَّهِ مِنَ الْهَمِّ وَالْحَزَنِ",
+    "transliteration": "A'ūdhu billāhi minal-hammi wal-ḥazan",
+    "english": "I seek refuge in Allah from anxiety and grief.",
+    "theme": "anxiety",
+    "type": "hadith"
+  },
+  {
+    "id": "h72",
+    "source": "Tirmidhi",
+    "narrator": "Abu Hurairah",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ وَالْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+    "transliteration": "Allāhumma innī a'ūdhu bika minal-hammi wal-ḥazani wal-'ajzi wal-kasali wal-jubni wal-bukhli wa-ḍala'id-dayni wa-ghalabatir-rijāl",
+    "english": "O Allah, I seek refuge in You from worry, grief, incapacity, laziness, cowardice, miserliness, overwhelming debt, and being overpowered by people.",
+    "theme": "anxiety",
+    "type": "hadith"
+  },
+  {
+    "id": "h73",
+    "source": "Tirmidhi",
+    "narrator": "Asma bint Umays",
+    "arabic": "حَسْبِيَ اللَّهُ وَنِعْمَ الْوَكِيلُ",
+    "transliteration": "Ḥasbiyallāhu wa-ni'mal-wakīl",
+    "english": "Allah is sufficient for me, and what an excellent Trustee He is.",
+    "theme": "tawakkul",
+    "type": "hadith"
+  },
+  {
+    "id": "h74",
+    "source": "Ahmad",
+    "narrator": "Anas ibn Malik",
+    "arabic": "لَا تَعْجِزْ وَإِنْ أَصَابَكَ شَيْءٌ فَلَا تَقُلْ لَوْ أَنِّي فَعَلْتُ كَانَ كَذَا وَكَذَا",
+    "transliteration": "Lā ta'jiz wa-in aṣābaka shay'un fa-lā taqul: law annī fa'altu kāna kadhā wa-kadhā",
+    "english": "Do not give up, and if something afflicts you do not say \"if only I had done this\" — for \"if only\" opens the door to Satan.",
+    "theme": "resilience",
+    "type": "hadith"
+  },
+  {
+    "id": "h75",
+    "source": "Bukhari",
+    "narrator": "Abu Hurairah",
+    "arabic": "الْمُؤْمِنُ لَا يُلْدَغُ مِنْ جُحْرٍ وَاحِدٍ مَرَّتَيْنِ",
+    "transliteration": "Al-mu'minu lā yuldag min juḥrin wāḥidin marratayni",
+    "english": "A believer is not bitten from the same hole twice.",
+    "theme": "wisdom",
+    "type": "hadith"
+  },
+  {
+    "id": "h76",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "إِذَا دَخَلَ شَهْرُ رَمَضَانَ فُتِّحَتْ أَبْوَابُ الْجَنَّةِ",
+    "transliteration": "Idhā dakhala shahru Ramaḍāna futtiḥat abwābul-jannah",
+    "english": "When Ramadan enters, the gates of Paradise are opened, the gates of Hell are closed, and the devils are chained.",
+    "theme": "worship",
+    "type": "hadith"
+  },
+  {
+    "id": "h77",
+    "source": "Bukhari",
+    "narrator": "Abu Hurairah",
+    "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيُكْرِمْ ضَيْفَهُ",
+    "transliteration": "Man kāna yu'minu billāhi wal-yawmil-ākhiri falyukrim ḍayfah",
+    "english": "Whoever believes in Allah and the Last Day should honour his guest.",
+    "theme": "hospitality",
+    "type": "hadith"
+  },
+  {
+    "id": "h78",
+    "source": "Bukhari",
+    "narrator": "Abdullah ibn Amr",
+    "arabic": "أَرْبَعٌ مَنْ كُنَّ فِيهِ كَانَ مُنَافِقًا خَالِصًا",
+    "transliteration": "Arba'un man kunna fīhi kāna munāfiqan khāliṣan",
+    "english": "Four traits mark a true hypocrite: lying when speaking, betrayal of trust, breaking promises, and shameless hostility.",
+    "theme": "character",
+    "type": "hadith"
+  },
+  {
+    "id": "h79",
+    "source": "Muslim",
+    "narrator": "Abu Hurairah",
+    "arabic": "مَنْ صَلَّى عَلَيَّ وَاحِدَةً صَلَّى اللَّهُ عَلَيْهِ عَشْرًا",
+    "transliteration": "Man ṣallā 'alayya wāḥidatan ṣallallāhu 'alayhi 'ashrā",
+    "english": "Whoever sends one blessing upon me, Allah sends ten blessings upon him.",
+    "theme": "dhikr",
+    "type": "hadith"
+  },
+  {
+    "id": "h80",
+    "source": "Tirmidhi",
+    "narrator": "Abdullah ibn Masud",
+    "arabic": "مَا أَصَابَ أَحَدٌ قَطُّ هَمٌّ وَلَا حَزَنٌ فَقَالَ اللَّهُمَّ إِنِّي عَبْدُكَ وَابْنُ عَبْدِكَ إِلَّا فَرَّجَ اللَّهُ عَنْهُ",
+    "transliteration": "Mā aṣāba aḥadun qaṭṭu hammun wa-lā ḥazanun fa-qāla: Allāhumma innī 'abduka wabnu 'abdika ... illā farraja llāhu 'anh",
+    "english": "No person was ever struck with worry or grief and said the dua of distress (Dua of Prophet Yunus) except that Allah relieved them.",
+    "theme": "anxiety",
+    "type": "hadith"
+  }
+]

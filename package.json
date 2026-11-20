@@ -1,0 +1,30 @@
+{
+  "name": "shukarr",
+  "version": "1.0.0",
+  "description": "Shukarr – Islamic Mindfulness & Gratitude macOS App",
+  "main": "src/main/main.js",
+  "author": "Shukarr",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --dev",
+    "build": "electron-builder --mac"
+  },
+  "devDependencies": {
+    "electron": "^35.0.0",
+    "electron-builder": "^26.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "node-schedule": "^2.1.1"
+  },
+  "build": {
+    "appId": "com.shukarr.app",
+    "productName": "Shukarr",
+    "mac": {
+      "category": "public.app-category.lifestyle",
+      "target": "dmg",
+      "icon": "assets/icon.icns"
+    }
+  }
+}

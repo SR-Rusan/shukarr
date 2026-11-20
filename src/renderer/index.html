@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Shukarr – شكر</title>
+  <link rel="stylesheet" href="styles.css"/>
+  <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self' https://fonts.googleapis.com https://fonts.gstatic.com;
+                 script-src 'self';
+                 style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+                 font-src 'self' https://fonts.gstatic.com;
+                 img-src 'self' data:;"/>
+</head>
+<body>
+
+<div class="geo-bg"></div>
+
+<div id="app">
+
+  <!-- ── Sidebar ─────────────────────────── -->
+  <nav id="sidebar">
+    <div class="sidebar-logo">ش</div>
+
+    <button class="nav-btn active" data-view="home" title="Home">
+      <span>🏠</span>
+      <span class="nav-label">Home</span>
+    </button>
+
+    <button class="nav-btn" data-view="mood" title="Mood Check-In">
+      <span>💭</span>
+      <span class="nav-label">Mood</span>
+    </button>
+
+    <button class="nav-btn" data-view="dhikr" title="Daily Dhikr">
+      <span>📿</span>
+      <span class="nav-label">Dhikr</span>
+    </button>
+
+    <button class="nav-btn" data-view="history" title="Mood History">
+      <span>📜</span>
+      <span class="nav-label">History</span>
+    </button>
+
+    <div class="nav-spacer"></div>
+
+    <button class="nav-btn" data-view="settings" title="Settings">
+      <span>⚙️</span>
+      <span class="nav-label">Settings</span>
+    </button>
+  </nav>
+
+  <!-- ── Content Area ───────────────────── -->
+  <main id="content">
+
+    <!-- HOME -->
+    <section id="view-home" class="view active">
+      <p class="home-greeting" id="home-greeting">Assalamu Alaikum</p>
+      <div class="home-logo-arabic">شكر</div>
+      <h1 class="home-title">Shukarr</h1>
+      <p class="home-tagline">Gratitude through remembrance</p>
+
+      <div class="home-actions">
+        <button class="btn-primary" id="btn-mood-checkin">How are you feeling? 💭</button>
+        <button class="btn-secondary" id="btn-view-dhikr">Daily Dhikr 📿</button>
+      </div>
+
+      <div class="dhikr-mini" id="dhikr-mini-widget">
+        <div class="dhikr-mini-header">
+          <span class="dhikr-mini-title">Today's Dhikr</span>
+          <span class="dhikr-progress-text" id="dhikr-mini-progress">0/5</span>
+        </div>
+        <div class="dhikr-mini-items" id="dhikr-mini-list">
+          <!-- Populated by JS -->
+        </div>
+      </div>
+    </section>
+
+    <!-- MOOD CHECK-IN -->
+    <section id="view-mood" class="view">
+      <div class="mood-step" id="mood-step-container">
+        <!-- Populated by JS step by step -->
+      </div>
+    </section>
+
+    <!-- LOADING -->
+    <section id="view-loading" class="view">
+      <div class="loading-arabic">بسم الله</div>
+      <p class="loading-text">Finding your verse...</p>
+    </section>
+
+    <!-- VERSE RESULT -->
+    <section id="view-verse" class="view">
+      <div class="verse-card" id="verse-card">
+        <div class="verse-card-ornament">﷽</div>
+        <div class="verse-surah-ref" id="verse-surah-ref"></div>
+        <div class="verse-arabic" id="verse-arabic"></div>
+
+        <div class="verse-divider">
+          <div class="verse-divider-line"></div>
+          <div class="verse-divider-ornament">❋</div>
+          <div class="verse-divider-line"></div>
+        </div>
+
+        <p class="verse-transliteration" id="verse-transliteration"></p>
+        <p class="verse-english" id="verse-english"></p>
+
+        <div class="verse-reflection">
+          <div class="verse-reflection-label">For you</div>
+          <div class="verse-reflection-text" id="verse-reflection"></div>
+        </div>
+
+        <div class="verse-actions">
+          <button class="btn-secondary" id="btn-save-verse">♡ Save</button>
+          <button class="btn-ghost" id="btn-new-checkin">Check in again</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- DHIKR -->
+    <section id="view-dhikr" class="view">
+      <div class="view-header">
+        <h2 class="view-title">Daily Dhikr</h2>
+        <p class="view-subtitle" id="dhikr-reset-info">Resets at Fajr (4:30 AM) · Tap to count</p>
+      </div>
+
+      <div class="dhikr-list" id="dhikr-full-list">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- HISTORY -->
+    <section id="view-history" class="view">
+      <div class="view-header">
+        <h2 class="view-title">Mood History</h2>
+        <p class="view-subtitle">Your check-in journey</p>
+      </div>
+      <div class="history-list" id="history-list">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- SETTINGS -->
+    <section id="view-settings" class="view">
+      <div class="view-header">
+        <h2 class="view-title">Settings</h2>
+        <p class="view-subtitle">Personalise Shukarr</p>
+      </div>
+
+      <div class="settings-section">
+        <div class="settings-section-title">AI & API</div>
+        <div class="settings-card">
+          <div class="settings-row">
+            <div>
+              <div class="settings-row-label">Gemini API Key</div>
+              <div class="settings-row-desc">Required for mood verse analysis</div>
+            </div>
+            <input type="password" class="settings-input" id="settings-api-key"
+                   placeholder="AIza..."/>
+          </div>
+        </div>
+      </div>
+
+      <div class="settings-section">
+        <div class="settings-section-title">Notifications</div>
+        <div class="settings-card">
+          <div class="settings-row">
+            <div>
+              <div class="settings-row-label">Morning Reminder</div>
+              <div class="settings-row-desc">Quranic verse</div>
+            </div>
+            <input type="time" class="settings-input" id="settings-notif-morning" value="06:00"/>
+          </div>
+          <div class="settings-row">
+            <div>
+              <div class="settings-row-label">Midday Reminder</div>
+              <div class="settings-row-desc">Hadith</div>
+            </div>
+            <input type="time" class="settings-input" id="settings-notif-midday" value="12:00"/>
+          </div>
+          <div class="settings-row">
+            <div>
+              <div class="settings-row-label">Evening Reminder</div>
+              <div class="settings-row-desc">Quranic verse</div>
+            </div>
+            <input type="time" class="settings-input" id="settings-notif-evening" value="18:00"/>
+          </div>
+          <div class="settings-row">
+            <div>
+              <div class="settings-row-label">Night Reminder</div>
+              <div class="settings-row-desc">Hadith</div>
+            </div>
+            <input type="time" class="settings-input" id="settings-notif-night" value="00:00"/>
+          </div>
+        </div>
+      </div>
+
+      <div class="settings-section">
+        <div class="settings-section-title">Dhikr</div>
+        <div class="settings-card">
+          <div class="settings-row">
+            <div>
+              <div class="settings-row-label">Fajr Reset Time</div>
+              <div class="settings-row-desc">Dhikr resets at this time daily</div>
+            </div>
+            <input type="time" class="settings-input" id="settings-fajr" value="04:30"/>
+          </div>
+        </div>
+      </div>
+
+      <div class="settings-section">
+        <div class="settings-section-title">Appearance</div>
+        <div class="settings-card">
+          <div class="settings-row">
+            <div>
+              <div class="settings-row-label">Dark Mode</div>
+              <div class="settings-row-desc">Toggle light/dark theme</div>
+            </div>
+            <div class="toggle on" id="settings-theme-toggle"></div>
+          </div>
+        </div>
+      </div>
+
+      <button class="settings-save-btn" id="settings-save">Save Settings</button>
+    </section>
+
+    <!-- QUOTE VIEW (notification click) -->
+    <section id="view-quote" class="view">
+      <div class="verse-card" id="quote-card">
+        <div class="verse-card-ornament" id="quote-ornament">﷽</div>
+        <div class="verse-surah-ref" id="quote-ref"></div>
+        <div class="verse-arabic" id="quote-arabic"></div>
+        <div class="verse-divider">
+          <div class="verse-divider-line"></div>
+          <div class="verse-divider-ornament">❋</div>
+          <div class="verse-divider-line"></div>
+        </div>
+        <p class="verse-transliteration" id="quote-transliteration"></p>
+        <p class="verse-english" id="quote-english"></p>
+        <div class="verse-actions">
+          <button class="btn-ghost" id="btn-back-from-quote">← Back</button>
+        </div>
+      </div>
+    </section>
+
+  </main>
+</div>
+
+<!-- Dhikr Counter Modal -->
+<div class="dhikr-counter-overlay" id="counter-overlay">
+  <div class="dhikr-counter-modal">
+    <div class="counter-arabic" id="counter-arabic"></div>
+    <div class="counter-latin" id="counter-latin"></div>
+
+    <div class="counter-ring">
+      <svg viewBox="0 0 120 120">
+        <circle class="counter-ring-track" cx="60" cy="60" r="54"/>
+        <circle class="counter-ring-fill" id="counter-ring-fill" cx="60" cy="60" r="54"/>
+      </svg>
+      <div style="text-align:center">
+        <div class="counter-num" id="counter-num">0</div>
+        <span class="counter-of-100">/ 100</span>
+      </div>
+    </div>
+
+    <div class="counter-complete-msg" id="counter-complete-msg">
+      ✓ Alhamdulillah — Completed!
+    </div>
+
+    <button class="counter-tap-btn" id="counter-tap-btn">Tap to count</button>
+    <button class="counter-close-btn" id="counter-close-btn">Done</button>
+  </div>
+</div>
+
+<!-- Toast -->
+<div class="toast" id="toast"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
